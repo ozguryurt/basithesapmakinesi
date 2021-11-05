@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\hesap makinesi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
